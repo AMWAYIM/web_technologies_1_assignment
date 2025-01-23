@@ -24,3 +24,5 @@ This is a simple 4-page group website created as part of a project. The website 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Use the navigation bar to explore the different pages.
+
+## https://techtideproject.netlify.app/
